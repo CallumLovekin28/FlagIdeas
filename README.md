@@ -2,8 +2,6 @@
 
 MAKE YOUR OWN FLAG
 
-Pick a place, real or imaginary, and design one or more flags for it, following these criteria (the five basic principles of flag design by Ted Kaye, cited in the TED talk above):
-
 Keep it simple. The flag should be so simple that a child can draw it from memory.
 
 Use meaningful symbolism. The flag’s images, colours, or patterns should relate to what it symbolises.
